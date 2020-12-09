@@ -1,1 +1,1 @@
-# SQL
+# Codecademy SQL 01
